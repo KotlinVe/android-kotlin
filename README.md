@@ -18,6 +18,7 @@ __Tutoriales en *Español*__
 	1. [[KfS02]: Sintaxis Básica en Kotlin I. Java vs Kotlin Round #1.](https://goo.gl/SoQ4RQ)
 	1. [[KfS03]: Sintaxis Básica en Kotlin II. Java vs Kotlin Round #2.](https://goo.gl/JbZz6d)
 	1. [[KfS04]: Sintaxis Basica en Kotlin III. Java vs Kotlin Round #3.](https://goo.gl/ueWvym)
+
 __Tutoriales en *Ingles*__
 1. Become a Kotlin Programmer (Novice)
 	1. [Part 1 (val and var and data types)](https://goo.gl/MPTLZi)
