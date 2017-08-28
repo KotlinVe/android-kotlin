@@ -18,6 +18,8 @@ __Tutoriales en *Español*__
 	1. [[KfS02]: Sintaxis Básica en Kotlin I. Java vs Kotlin Round #1.](https://goo.gl/SoQ4RQ)
 	1. [[KfS03]: Sintaxis Básica en Kotlin II. Java vs Kotlin Round #2.](https://goo.gl/JbZz6d)
 	1. [[KfS04]: Sintaxis Basica en Kotlin III. Java vs Kotlin Round #3.](https://goo.gl/ueWvym)
+	1. [[KfS05]: Kotlin Features: Kotlin vs NullPointerException](https://goo.gl/Bs3PrJ)
+	1. [[KfS06]: Kotlin Features: Type Check y Smart Cast](https://goo.gl/3KSHP5)
 
 __Tutoriales en *Ingles*__
 1. Become a Kotlin Programmer (Novice)
@@ -31,7 +33,13 @@ __Tutoriales en *Ingles*__
 	1. Part 8 (Getters and Setters)
 	1. Part 9 (Binary & hexadecimal Numbers)
 	1. Part 10(I/O Input and Ouput)
-1. Kotlin Functional Programming 
+1. Kotlin Functional Programming
+
+### Blog y Articulos recomendados
+__Kotlin y Android__
+1. Tutoriales
+	1. [Kotlin en Android Studio 2.X](https://goo.gl/mFsjSR)
+
 ### Listado de Apps de Ejemplos
 ```
 //To Do
