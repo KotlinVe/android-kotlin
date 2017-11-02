@@ -36,6 +36,9 @@ __Tutoriales en *Ingles*__
 1. Kotlin Functional Programming
 
 ### Blog y Articulos recomendados
+__Android Style Guide__
+1. [Kotlin Android Style Guide](https://android.github.io/kotlin-guides/style.html)
+
 __Kotlin y Android__
 1. Tutoriales
 	1. [Kotlin en Android Studio 2.X](https://goo.gl/mFsjSR)
