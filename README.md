@@ -33,7 +33,19 @@ __Tutoriales en *Ingles*__
 	1. Part 8 (Getters and Setters)
 	1. Part 9 (Binary & hexadecimal Numbers)
 	1. Part 10(I/O Input and Ouput)
+1. Kotlin Coroutines
+	1. [Getting rid of runOnUiThread and Callbacks; cleaner thread handling; and more](https://goo.gl/7gxc1n)
+	1. [Coroutines and how to get rid of the callback hell](https://goo.gl/yDoqYD)
+	1. [Android Coroutine Recipes](https://goo.gl/Zc8P6g)
+	1. [Mastering Coroutines. Android. Unit Tests](https://goo.gl/pnNPMN)
+	1. [Migrating todo-mvp-kotlin to coroutines](https://goo.gl/w2iotY)
 1. Kotlin Functional Programming
+	1. [Part 1 (Kotlin Functors, Applicatives, And Monads in Pictures)](https://goo.gl/8s3EWN)
+	1. [Part 2 (Kotlin Functors, Applicatives, And Monads in Pictures)](https://goo.gl/94uojD)
+	1. [Part 3 (Kotlin Functors, Applicatives, And Monads in Pictures)](https://goo.gl/qdsivP)
+	1. [Kotlin Functional Programming: Does it make sense?](https://goo.gl/UmHpnY)
+	1. [Part 1 (Monad Stack)](https://goo.gl/FZGXay)
+	1. [Part 2 (Monad Transformers)](https://goo.gl/3xNAqR)
 
 ### Blog y Articulos recomendados
 __Android Style Guide__
