@@ -46,6 +46,10 @@ __Tutoriales en *Ingles*__
 	1. [Kotlin Functional Programming: Does it make sense?](https://goo.gl/UmHpnY)
 	1. [Part 1 (Monad Stack)](https://goo.gl/FZGXay)
 	1. [Part 2 (Monad Transformers)](https://goo.gl/3xNAqR)
+1. Android Architecture Components
+	1. [Android MVVM Architecture Components using Github API](https://medium.com/@skydoves/android-mvvm-architecture-components-using-github-api-f0ab9c2a67a0)
+	1. [Applying Android Architecture Components with Kotlin](https://android.jlelse.eu/applying-android-architecture-components-with-kotlin-bfadb8399521)
+	1. [Build an app with offline support](https://proandroiddev.com/build-an-app-with-offline-support-1a32c6bab7d2)
 
 ### Blog y Articulos recomendados
 __Android Style Guide__
